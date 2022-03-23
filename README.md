@@ -193,7 +193,7 @@ https://mariadb.com/kb/en/mysql_install_db/
 https://mariadb.com/kb/en/installing-system-tables-mysql_install_db/
 
 
-[How to cite]
+[How to cite]  
 ADI Junior, 2022. MariaDb-10.7.3 or fewer installation for Linux (Debian based) OS. Site: https://github.com/rootoor-dev/MariaDb-10.7.3-or-fewer-installation/edit/main/README.md
 
 THANK YOU !!!
