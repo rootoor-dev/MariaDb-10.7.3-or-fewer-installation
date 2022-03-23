@@ -1,6 +1,13 @@
 # MariaDb-10.7.3 or fewer installation for Linux (Debian based) OS
 How to install safely mariadb (mysql) dbms without any errors ?
 
+First of all, note that MySQL commands are the same that those of MariaDb.
+It's because MariaDb is a fork (clone) of MySQL.
+So, the ambiguity on using MySQL to name MariaDb or vice-versa is not a matter.
+These systems are (almost) the same !
+Moreover, typing this command "mariadb -u root -p" has the same action that typing this one else "mysql -u root -p".
+Finally, in this tutorial, one or other from both will be used.
+
 # Prerequisies
 
 This tutorial concerns only Linux users precisely Kali Linux 2021 even 2022 or Debian 11 Bullseye 
