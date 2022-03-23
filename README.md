@@ -36,7 +36,13 @@ And remove them manually with:
 ```
 rm -rf path/to/config/files
 ```
-Usually, the files are located at /etc/mysql/. 
+Usually, the files are located at /etc/mysql/. Or at:
+
+/etc/my.cnf
+/etc/mysql/my.cnf
+$MYSQL_HOME/my.cnf
+~/.my.cnf
+
 It is better to move them to a different directory such as the /tmp/ directory.
 
 ```
