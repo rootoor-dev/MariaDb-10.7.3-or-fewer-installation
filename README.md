@@ -4,7 +4,7 @@ How to install safely mariadb (mysql) dbms without any errors ?
 # Prerequisies
 
 This tutorial concerns only Linux users precisely Kali Linux 2021 even 2022 or Debian 11 Bullseye 
-users because this has been successful on these systems.
+users because this has been tested successfully on these systems.
 This tutorial is though shared with no guarantee. Any responsability is so declined !
 Any basic knowledge on linux is recommanded, needed to continue.
 
