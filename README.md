@@ -21,7 +21,7 @@ Run the following command. This will use apt-get to remove all packages with the
 ```
 sudo apt-get --purge remove "mysql*"
 ```
-## ## Removing the conigs files
+## Removing the configs files
 Now MariaDB has been completely uninstalled, the next step is to ensure all configs are gone. 
 the –purge option tells the system to remove all configs, however it will only remove the default configs that came with the install. Any custom configs that were added after the install will still be there.
 Use these commands to get the location of the config files.
